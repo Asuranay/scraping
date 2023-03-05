@@ -10,10 +10,8 @@ from selenium.webdriver.common.keys import Keys
 
 
 # отфильтровано: цена по убыванию, память 6гг и более
-url = 'https://www.citilink.ru/catalog/videokarty/?sorting=price_desc&pf=discount.any%2Crating.any%2C304_296d1gb%' \
-      '2C304_298d1gb%2C304_2910d1gb%2C304_2912d1gb%2C304_2916d1gb%2C304_2920d1gb%2C304_2924d1gb&f=discount.any%' \
-      '2Crating.any%2C304_296d1gb%2C304_298d1gb%2C304_2910d1gb%2C304_2912d1gb%2C304_2916d1gb%2C304_2920d1gb%' \
-      '2C304_2924d1gb%2C304_2948d1gb&pprice_min=3890&pprice_max=555770&price_min=3890&price_max=555770'
+url = 'https://www.citilink.ru/'
+
 path_chrome = Service('C:/Users/Suramon/PycharmProjects/parser/citilink/driver/chromedriver.exe')
 options = webdriver.ChromeOptions()
 options.add_argument("--headless")
@@ -70,19 +68,19 @@ def card() -> None:
             price = prices[num].text.replace(' ', '')
         except:
             price = 'Товара нет в наличии'
-        # try: Отрабатывает 2 раза и уходит в except даже не пробуя try, без атрибута --headless отрабатывает лишь раз
-        #     time.sleep(2)
-        #     # driver.find_element(By.XPATH, "//div[@class='e12wdlvo0 app-catalog-1bogmvw e1loosed0']/div/div[6]/div/div/div/div/button").click()
-        #     driver.find_element(By.XPATH, "//div[@class='e12wdlvo0 app-catalog-1bogmvw e1loosed0']/div/div[7]/div[2]/button").click()
-        #     time.sleep(2)
-        #     WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CLASS_NAME, 'css-1uvjxrj'))).send_keys('999')
-        #     time.sleep(2)
-        #     store = driver.find_element(By.CLASS_NAME, 'css-1uvjxrj').get_attribute('value')
-        #     time.sleep(2)
-        #     driver.find_element(By.CLASS_NAME, 'e1nu7pom0').click()
+        # try: #Отрабатывает 2 раза и уходит в except даже не пробуя try, без атрибута --headless отрабатывает лишь раз
+            # time.sleep(2)
+            # # driver.find_element(By.XPATH, "//div[@class='e12wdlvo0 app-catalog-1bogmvw e1loosed0']/div/div[6]/div/div/div/div/button").click()
+            # driver.find_element(By.XPATH, "//div[@class='e12wdlvo0 app-catalog-1bogmvw e1loosed0']/div/div[7]/div[2]/button").click()
+            # time.sleep(2)
+            # WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CLASS_NAME, 'css-1uvjxrj'))).send_keys('999')
+            # time.sleep(2)
+            # store = driver.find_element(By.CLASS_NAME, 'css-1uvjxrj').get_attribute('value')
+            # time.sleep(2)
+            # driver.find_element(By.CLASS_NAME, 'e1nu7pom0').click()
         # except:
         #     store = 0
-
+        # print(store)
         data = {
             'url': url,
             'name': name.text,
