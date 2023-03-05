@@ -10,11 +10,10 @@ from selenium.webdriver.common.keys import Keys
 
 
 # отфильтровано: цена по убыванию, память 6гг и более
-url = 'https://www.citilink.ru/catalog/videokarty/?sorting=price_desc&pf=discount.any%2Crating.any%2C304_296d1gb%' \
+url = 'https://www.citilink.ru/catalog/videokarty/?p=5&sorting=price_desc&pf=discount.any%2Crating.any%2C304_296d1gb%' \
       '2C304_298d1gb%2C304_2910d1gb%2C304_2912d1gb%2C304_2916d1gb%2C304_2920d1gb%2C304_2924d1gb&f=discount.any%' \
       '2Crating.any%2C304_296d1gb%2C304_298d1gb%2C304_2910d1gb%2C304_2912d1gb%2C304_2916d1gb%2C304_2920d1gb%' \
       '2C304_2924d1gb%2C304_2948d1gb&pprice_min=3890&pprice_max=555770&price_min=3890&price_max=555770'
-
 path_chrome = Service('C:/Users/Suramon/PycharmProjects/parser/citilink/driver/chromedriver.exe')
 options = webdriver.ChromeOptions()
 options.add_argument("--headless")
@@ -24,31 +23,36 @@ driver = webdriver.Chrome(service=path_chrome, options=options)
 driver.set_window_size(1920, 1080)
 
 data_dict = []
+def page_scroll() -> None:
+    '''Пробегаемся по страницам'''
+    p = 1
+    while True:
+        try:
+            url = f'https://www.citilink.ru/catalog/videokarty/?p={p}&sorting=price_desc&pf=discount.any%2Crating.any%2C304_296d1gb%' \
+                  '2C304_298d1gb%2C304_2910d1gb%2C304_2912d1gb%2C304_2916d1gb%2C304_2920d1gb%2C304_2924d1gb&f=discount.any%' \
+                  '2Crating.any%2C304_296d1gb%2C304_298d1gb%2C304_2910d1gb%2C304_2912d1gb%2C304_2916d1gb%2C304_2920d1gb%' \
+                  '2C304_2924d1gb%2C304_2948d1gb&pprice_min=3890&pprice_max=555770&price_min=3890&price_max=555770'
+            driver.get(url=url)
+            # Если блока нет, прервется цикл, до этой строки он всегда отработает
+            ispage = driver.find_element(By.CLASS_NAME, 'app-catalog-xi606m').text
+            print('Конец')
+            break
+        except:
+            print(f'[+] Обработка страницы {p} ...')
+            card()
+            p += 1
 
 def city(url:str, city:str) -> None:
     '''Выбираем город'''
     driver.get(url=url)
     WebDriverWait(driver, 10).until(
         EC.element_to_be_clickable((By.XPATH, "//button[@data-meta-name='CityChangeButton']"))).click()
-
-
     WebDriverWait(driver, 10).until(
         EC.element_to_be_clickable((By.PARTIAL_LINK_TEXT, city))).click()
 
-    card()
-    page_scroll()
-def page_scroll():
-    '''Скролим всю страницу до конца'''
-    time.sleep(2)
-    driver.execute_script('window.scrollTo(0,10000);')
-    time.sleep(2)
-    # driver.find_element(By.XPATH, "//div[@class='app-catalog-165t4zf ey27zj40']/div/div[2]/button").click()
-    link = driver.find_elements(By.XPATH, "//div[@class='app-catalog-peotpw e1mnvjgw0']")
-    for el in link:
-        print(el.text)
-    time.sleep(2)
-def card():
+def card() -> None:
     '''Заполнение карточек товаров'''
+
     WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CLASS_NAME, 'app-catalog-9gnskf')))
     names = driver.find_elements(By.XPATH, "//div[@class='e12wdlvo0 app-catalog-1bogmvw e1loosed0']/div/div[3]/div[1]")
     urls = driver.find_elements(By.XPATH, "//div[@class='e12wdlvo0 app-catalog-1bogmvw e1loosed0']/div/div[3]/div[1]/a")
@@ -88,15 +92,17 @@ def card():
         data_dict.append(data)
 
 
+
 if __name__ == '__main__':
     try:
         city(url, 'Москва')
+        page_scroll()
     except Exception as ex:
         print(ex)
     finally:
         print(len(data_dict))
-        # with open('citilink_data.json', 'w', encoding='utf-8') as file_data:
-        #     json.dump(data_dict, file_data, indent=4, ensure_ascii=False)
+        with open('citilink_data.json', 'w', encoding='utf-8') as file_data:
+            json.dump(data_dict, file_data, indent=4, ensure_ascii=False)
         print('close')
         driver.close()
         driver.quit()

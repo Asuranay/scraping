@@ -1,0 +1,1094 @@
+[
+    {
+        "url": "https://www.citilink.ru/product/videokarta-pny-pci-e-4-0-rtx-a6000-nv-rtx-a6000-49152mb-384-gddr6-mdpx-1909163/",
+        "name": "Видеокарта PNY NVIDIA RTX A6000, RTX A6000",
+        "gpu": "another",
+        "price": "555770"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-gigabyte-pci-e-4-0-gv-n4090aorus-m-24gd-nv-rtx4090-24576mb-1888161/",
+        "name": "Видеокарта GIGABYTE NVIDIA GeForce RTX 4090, GV-N4090AORUS M-24GD",
+        "gpu": "RTX 4090",
+        "price": "179990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-pny-pci-e-rtx-a4500-nv-rtx-a4500-20480mb-320-gddr6-mdpx4-re-1796639/",
+        "name": "Видеокарта PNY NVIDIA RTX A4500, RTX A4500",
+        "gpu": "another",
+        "price": "175990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-msi-pci-e-4-0-rtx-4090-gaming-x-trio-24g-nv-rtx4090-24576mb-1856152/",
+        "name": "Видеокарта MSI NVIDIA GeForce RTX 4090, RTX 4090 GAMING X TRIO 24G",
+        "gpu": "RTX 4090",
+        "price": "159990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-gigabyte-pci-e-4-0-gv-n4090gaming-24gd-nv-rtx4090-24576mb-3-1893334/",
+        "name": "Видеокарта GIGABYTE NVIDIA GeForce RTX 4090, GV-N4090GAMING-24GD",
+        "gpu": "RTX 4090",
+        "price": "158990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-msi-pci-e-4-0-rtx-4090-gaming-trio-24g-nv-rtx4090-24576mb-3-1896097/",
+        "name": "Видеокарта MSI NVIDIA GeForce RTX 4090, RTX 4090 GAMING TRIO 24G",
+        "gpu": "RTX 4090",
+        "price": "157990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-gigabyte-pci-e-4-0-gv-n4090wf3-24gd-nv-rtx4090-24576mb-384-1852987/",
+        "name": "Видеокарта GIGABYTE NVIDIA GeForce RTX 4090, GV-N4090WF3-24GD",
+        "gpu": "RTX 4090",
+        "price": "154990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-msi-pci-e-4-0-rtx-4090-ventus-3x-24g-oc-nv-rtx4090-24576mb-1901042/",
+        "name": "Видеокарта MSI NVIDIA GeForce RTX 4090, RTX 4090 VENTUS 3X 24G OC",
+        "gpu": "RTX 4090",
+        "price": "149990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-palit-pci-e-4-0-pa-rtx4090-gamerock-oc-nv-rtx4090-24576mb-3-1859907/",
+        "name": "Видеокарта Palit NVIDIA GeForce RTX 4090, PA-RTX4090 GAMEROCK OC",
+        "gpu": "RTX 4090",
+        "price": "149990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-msi-pci-e-4-0-rtx-4090-ventus-3x-24g-nv-rtx4090-24576mb-384-1873638/",
+        "name": "Видеокарта MSI NVIDIA GeForce RTX 4090, RTX 4090 VENTUS 3X 24G",
+        "gpu": "RTX 4090",
+        "price": "145990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-palit-pci-e-4-0-pa-rtx4090-gamerock-nv-rtx4090-24576mb-384-1859908/",
+        "name": "Видеокарта Palit NVIDIA GeForce RTX 4090, PA-RTX4090 GAMEROCK",
+        "gpu": "RTX 4090",
+        "price": "143990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-palit-pci-e-4-0-pa-rtx4090-gamerock-omniblack-nv-rtx4090-24-1859906/",
+        "name": "Видеокарта Palit NVIDIA GeForce RTX 4090, PA-RTX4090 GAMEROCK OMNIBLACK",
+        "gpu": "RTX 4090",
+        "price": "142990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-palit-nvidia-geforce-rtx-3090-pa-rtx3090-gamingpro-24g-24gb-1415892/",
+        "name": "Видеокарта Palit NVIDIA GeForce RTX 3090, PA-RTX3090 GAMINGPRO 24G",
+        "gpu": "RTX 3090",
+        "price": "139990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-msi-pci-e-4-0-rtx-3080-ti-ventus-3x-12g-oc-ru-nv-rtx3080ti-1625375/",
+        "name": "Видеокарта MSI NVIDIA GeForce RTX 3080TI, RTX 3080 Ti VENTUS 3X 12G OC RU",
+        "gpu": "RTX 3080",
+        "price": "136290"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-gigabyte-pci-e-4-0-gv-n4080aorusx-w-16gd-nv-rtx4080-16384mb-1888162/",
+        "name": "Видеокарта GIGABYTE NVIDIA GeForce RTX 4080, GV-N4080AORUSX W-16GD",
+        "gpu": "RTX 4080",
+        "price": "129990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-gigabyte-pci-e-4-0-gv-n3080aorusx-wb-12gd-nv-rtx3080-12288m-1681153/",
+        "name": "Видеокарта GIGABYTE NVIDIA GeForce RTX 3080, GV-N3080AORUSX WB-12GD",
+        "gpu": "RTX 3080",
+        "price": "129990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-gigabyte-pci-e-4-0-gv-n4080aorus-m-16gd-nv-rtx4080-16384mb-1874734/",
+        "name": "Видеокарта GIGABYTE NVIDIA GeForce RTX 4080, GV-N4080AORUS M-16GD",
+        "gpu": "RTX 4080",
+        "price": "126990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-msi-pci-e-4-0-rtx-3080-ti-gaming-x-trio-12g-nv-rtx3080ti-12-1526841/",
+        "name": "Видеокарта MSI NVIDIA GeForce RTX 3080TI, RTX 3080 Ti GAMING X TRIO 12G",
+        "gpu": "RTX 3080",
+        "price": "126790"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-msi-pci-e-4-0-rtx-4080-16gb-suprim-nv-rtx4080-16384mb-256-g-1873641/",
+        "name": "Видеокарта MSI NVIDIA GeForce RTX 4080, RTX 4080 16GB SUPRIM",
+        "gpu": "RTX 4080",
+        "price": "123990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-msi-pci-e-4-0-rtx-4080-16gb-suprim-x-nv-rtx4080-16384mb-256-1873664/",
+        "name": "Видеокарта MSI NVIDIA GeForce RTX 4080, RTX 4080 16GB SUPRIM X",
+        "gpu": "RTX 4080",
+        "price": "122990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-asus-pci-e-4-0-tuf-rtx4080-o16g-gaming-nv-rtx4080-1638mb-38-1890675/",
+        "name": "Видеокарта ASUS NVIDIA GeForce RTX 4080, TUF-RTX4080-O16G-GAMING",
+        "gpu": "RTX 4080",
+        "price": "119990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-msi-pci-e-4-0-rtx-4080-16gb-gaming-trio-nv-rtx4080-16384mb-1873656/",
+        "name": "Видеокарта MSI NVIDIA GeForce RTX 4080, RTX 4080 16GB GAMING TRIO",
+        "gpu": "RTX 4080",
+        "price": "119990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-gigabyte-pci-e-4-0-gv-n3080eagle-12gd-nv-rtx3080-12288mb-32-1659747/",
+        "name": "Видеокарта GIGABYTE NVIDIA GeForce RTX 3080, GV-N3080EAGLE-12GD LHR",
+        "gpu": "RTX 3080",
+        "price": "119990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-gigabyte-pci-e-4-0-gv-n4080gaming-16gd-nv-rtx4080-16384mb-2-1893342/",
+        "name": "Видеокарта GIGABYTE NVIDIA GeForce RTX 4080, GV-N4080GAMING-16GD",
+        "gpu": "RTX 4080",
+        "price": "116990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-msi-pci-e-4-0-rtx-4080-16gb-gaming-x-trio-nv-rtx4080-16384m-1873639/",
+        "name": "Видеокарта MSI NVIDIA GeForce RTX 4080, RTX 4080 16GB GAMING X TRIO",
+        "gpu": "RTX 4080",
+        "price": "116490"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-gigabyte-pci-e-4-0-gv-n4080aero-16gd-nv-rtx4080-16384mb-256-1893318/",
+        "name": "Видеокарта GIGABYTE NVIDIA GeForce RTX 4080, GV-N4080AERO-16GD",
+        "gpu": "RTX 4080",
+        "price": "115990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-gigabyte-pci-e-4-0-gv-n4080aero-oc-16gd-nv-rtx4080-16384mb-1874756/",
+        "name": "Видеокарта GIGABYTE NVIDIA GeForce RTX 4080, GV-N4080AERO OC-16GD",
+        "gpu": "RTX 4080",
+        "price": "115490"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-msi-pci-e-4-0-rtx-4080-16gb-ventus-3x-oc-nv-rtx4080-16384mb-1873640/",
+        "name": "Видеокарта MSI NVIDIA GeForce RTX 4080, RTX 4080 16GB VENTUS 3X OC",
+        "gpu": "RTX 4080",
+        "price": "113990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-gigabyte-pci-e-4-0-gv-n4080eagle-16gd-nv-rtx4080-16384mb-38-1877817/",
+        "name": "Видеокарта GIGABYTE NVIDIA GeForce RTX 4080, GV-N4080EAGLE -16GD",
+        "gpu": "RTX 4080",
+        "price": "112990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-gigabyte-pci-e-4-0-gv-n4080gaming-oc-16gd-nv-rtx4080-16384m-1879636/",
+        "name": "Видеокарта GIGABYTE NVIDIA GeForce RTX 4080, GV-N4080GAMING OC-16GD",
+        "gpu": "RTX 4080",
+        "price": "111990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-msi-pci-e-4-0-rx-7900-xtx-gaming-trio-classic-amd-rx7900xtx-1901038/",
+        "name": "Видеокарта MSI AMD Radeon RX 7900XTX, RX 7900 XTX GAMING TRIO CLASSIC",
+        "gpu": "RX 7900",
+        "price": "109990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-gigabyte-pci-e-4-0-gv-n4080eagle-oc-16gd-nv-rtx4080-16384mb-1874754/",
+        "name": "Видеокарта GIGABYTE NVIDIA GeForce RTX 4080, GV-N4080EAGLE OC-16GD",
+        "gpu": "RTX 4080",
+        "price": "109990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-palit-pci-e-4-0-pa-rtx4080-gamerock-nv-rtx4080-16384mb-256-1861619/",
+        "name": "Видеокарта Palit NVIDIA GeForce RTX 4080, PA-RTX4080 GAMEROCK",
+        "gpu": "RTX 4080",
+        "price": "108990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-palit-pci-e-4-0-pa-rtx4080-gamerock-oc-nv-rtx4080-16384mb-2-1861618/",
+        "name": "Видеокарта Palit NVIDIA GeForce RTX 4080, PA-RTX4080 GAMEROCK OC",
+        "gpu": "RTX 4080",
+        "price": "108990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-palit-pci-e-4-0-pa-rtx4080-gamerock-oc-nv-rtx4080-16384mb-2-1879420/",
+        "name": "Видеокарта Palit NVIDIA GeForce RTX 4080, PA-RTX4080 GAMINGPRO OC",
+        "gpu": "RTX 4080",
+        "price": "107990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-pny-pci-e-rtx-a2000-12gb-nv-rtx-a2000-12288mb-192-gddr6-mdp-1796625/",
+        "name": "Видеокарта PNY NVIDIA RTX A2000, RTX A2000-12GB",
+        "gpu": "another",
+        "price": "106290"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-msi-pci-e-4-0-rx7900xt-20g-e-oc-amd-rx7900xt-20480mb-320-gd-1895932/",
+        "name": "Видеокарта PowerColor AMD Radeon RX 7900XT, RX7900XT 20G-E/OC",
+        "gpu": "RX 7900",
+        "price": "103990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-palit-pci-e-4-0-pa-rtx4080-gamerock-nv-rtx4080-16384mb-256-1879427/",
+        "name": "Видеокарта Palit NVIDIA GeForce RTX 4080, PA-RTX4080 GAMINGPRO",
+        "gpu": "RTX 4080",
+        "price": "103990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-palit-pci-e-4-0-pa-rtx4080-gamerock-omniblack-nv-rtx4080-16-1861620/",
+        "name": "Видеокарта Palit NVIDIA GeForce RTX 4080, PA-RTX4080 GAMEROCK OMNIBLACK",
+        "gpu": "RTX 4080",
+        "price": "101990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-msi-pci-e-4-0-rx-7900-xt-gaming-trio-classic-amd-rx7900xt-2-1901031/",
+        "name": "Видеокарта MSI AMD Radeon RX 7900XT, RX 7900 XT GAMING TRIO CLASSIC",
+        "gpu": "RX 7900",
+        "price": "99990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-msi-pci-e-4-0-rtx-4070-ti-suprim-x-12g-nv-rtx4070ti-12288mb-1887889/",
+        "name": "Видеокарта MSI NVIDIA GeForce RTX 4070TI, RTX 4070 Ti SUPRIM X 12G",
+        "gpu": "RTX 4070",
+        "price": "96990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-gigabyte-pci-e-4-0-gv-n407taero-oc-12gd-nv-rtx4070ti-12288m-1888963/",
+        "name": "Видеокарта GIGABYTE NVIDIA GeForce RTX 4070TI, GV-N407TAERO OC-12GD",
+        "gpu": "RTX 4070",
+        "price": "89990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-gigabyte-pci-e-4-0-gv-n407taorus-m-12gd-nv-rtx4070ti-12288m-1888895/",
+        "name": "Видеокарта GIGABYTE NVIDIA GeForce RTX 4070TI, GV-N407TAORUS M-12GD",
+        "gpu": "RTX 4070",
+        "price": "89990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-msi-pci-e-4-0-rtx-4070-ti-gaming-x-trio-12g-nv-rtx4070ti-12-1887888/",
+        "name": "Видеокарта MSI NVIDIA GeForce RTX 4070TI, RTX 4070 Ti GAMING X TRIO 12G",
+        "gpu": "RTX 4070",
+        "price": "89990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-msi-pci-e-4-0-rtx-4070-ti-ventus-3x-12g-nv-rtx4070ti-12288m-1892260/",
+        "name": "Видеокарта MSI NVIDIA GeForce RTX 4070TI, RTX 4070 Ti VENTUS 3X 12G",
+        "gpu": "RTX 4070",
+        "price": "88990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-gigabyte-pci-e-4-0-gv-n407taorus-e-12gd-nv-rtx4070ti-12288m-1888962/",
+        "name": "Видеокарта GIGABYTE NVIDIA GeForce RTX 4070TI, GV-N407TAORUS E-12GD",
+        "gpu": "RTX 4070",
+        "price": "88990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-msi-pci-e-4-0-rtx-4070-ti-ventus-3x-12g-oc-nv-rtx4070ti-122-1887886/",
+        "name": "Видеокарта MSI NVIDIA GeForce RTX 4070TI, RTX 4070 Ti VENTUS 3X 12G OC",
+        "gpu": "RTX 4070",
+        "price": "88990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-gigabyte-pci-e-4-0-gv-n407tgaming-12gd-nv-rtx4070ti-12288mb-1901055/",
+        "name": "Видеокарта GIGABYTE NVIDIA GeForce RTX 4070TI, GV-N407TGAMING-12GD",
+        "gpu": "RTX 4070",
+        "price": "87990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-gigabyte-pci-e-4-0-gv-r79xtgaming-oc-20gd-amd-radeon-rx-790-1893359/",
+        "name": "Видеокарта GIGABYTE AMD Radeon RX 7900XT, GV-R79XTGAMING OC-20GD",
+        "gpu": "RX 7900",
+        "price": "86990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-palit-pci-e-4-0-rtx4070ti-gamerock-premium-nv-rtx4070ti-122-1890323/",
+        "name": "Видеокарта Palit NVIDIA GeForce RTX 4070TI, RTX4070Ti GAMEROCK PREMIUM",
+        "gpu": "RTX 4070",
+        "price": "86990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-gigabyte-pci-e-4-0-gv-n407tgaming-oc-12gd-nv-rtx4070ti-1228-1879631/",
+        "name": "Видеокарта GIGABYTE NVIDIA GeForce RTX 4070TI, GV-N407TGAMING OC-12GD",
+        "gpu": "RTX 4070",
+        "price": "85990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-palit-pci-e-4-0-rtx4070ti-gamerock-nv-rtx4070ti-12288mb-192-1890331/",
+        "name": "Видеокарта Palit NVIDIA GeForce RTX 4070TI, RTX4070Ti GAMEROCK",
+        "gpu": "RTX 4070",
+        "price": "84990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-gigabyte-pci-e-4-0-gv-n407teagle-oc-12gd-nv-rtx4070ti-12288-1879634/",
+        "name": "Видеокарта GIGABYTE NVIDIA GeForce RTX 4070TI, GV-N407TEAGLE OC-12GD",
+        "gpu": "RTX 4070",
+        "price": "84990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-palit-pci-e-4-0-rtx4070ti-gamerock-classic-nv-rtx4070ti-122-1879409/",
+        "name": "Видеокарта Palit NVIDIA GeForce RTX 4070TI, RTX4070Ti GAMEROCK CLASSIC",
+        "gpu": "RTX 4070",
+        "price": "84990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-palit-pci-e-4-0-rtx4070ti-gamerock-classic-oc-nv-rtx4070ti-1879400/",
+        "name": "Видеокарта Palit NVIDIA GeForce RTX 4070TI, RTX4070Ti GAMEROCK CLASSIC OC",
+        "gpu": "RTX 4070",
+        "price": "84990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-palit-pci-e-4-0-rtx4070ti-gamingpro-oc-nv-rtx4070ti-12288mb-1890333/",
+        "name": "Видеокарта Palit NVIDIA GeForce RTX 4070TI, RTX4070Ti GAMINGPRO OC",
+        "gpu": "RTX 4070",
+        "price": "83990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-palit-pci-e-4-0-rtx4070ti-gamingpro-nv-rtx4070ti-12288mb-19-1890336/",
+        "name": "Видеокарта Palit NVIDIA GeForce RTX 4070TI, RTX4070Ti GAMINGPRO",
+        "gpu": "RTX 4070",
+        "price": "81990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-palit-pci-e-4-0-rtx4070ti-gamerock-oc-nv-rtx4070ti-12288mb-1890327/",
+        "name": "Видеокарта Palit NVIDIA GeForce RTX 4070TI, RTX4070Ti GAMEROCK OC",
+        "gpu": "RTX 4070",
+        "price": "79990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-palit-pci-e-4-0-pa-rtx3080-gamingpro-12g-lhr-nv-rtx3080-122-1657204/",
+        "name": "Видеокарта Palit NVIDIA GeForce RTX 3080, PA-RTX3080 GAMINGPRO 12G LHR",
+        "gpu": "RTX 3080",
+        "price": "79990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-gigabyte-pci-e-4-0-gv-n3080gamingoc-wb-10gd-2-0-lhr-nv-rtx3-1561466/",
+        "name": "Видеокарта GIGABYTE NVIDIA GeForce RTX 3080, GV-N3080GAMINGOC WB-10GD 2.0 LHR",
+        "gpu": "RTX 3080",
+        "price": "79990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-asus-pci-e-4-0-tuf-rtx3070ti-o8g-gaming-nv-rtx3070ti-8192mb-1548315/",
+        "name": "Видеокарта ASUS NVIDIA GeForce RTX 3070TI, TUF-RTX3070TI-O8G-GAMING",
+        "gpu": "RTX 3070",
+        "price": "73990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-powercolor-amd-radeon-rx-6800xt-axrx-6800xt-16gbd6-3dhr-oc-1465508/",
+        "name": "Видеокарта PowerColor AMD Radeon RX 6800XT, AXRX 6800XT 16GBD6-3DHR/OC",
+        "gpu": "RX 6800",
+        "price": "70990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-palit-pci-e-4-0-pa-rtx3080-gamingpro-10g-v1-nv-rtx3080-1024-1535781/",
+        "name": "Видеокарта Palit NVIDIA GeForce RTX 3080, PA-RTX3080 GAMINGPRO 10G V1 LHR",
+        "gpu": "RTX 3080",
+        "price": "69990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-gigabyte-pci-e-4-0-gv-n307taorus-m-8gd-nv-rtx3070ti-8192mb-1535680/",
+        "name": "Видеокарта GIGABYTE NVIDIA GeForce RTX 3070TI, GV-N307TAORUS M-8GD",
+        "gpu": "RTX 3070",
+        "price": "65990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-msi-pci-e-4-0-rtx-3070-ventus-3x-oc-8g-lhr-ru-nv-rtx3070-81-1629011/",
+        "name": "Видеокарта MSI NVIDIA GeForce RTX 3070, RTX 3070 VENTUS 3X OC 8G LHR RU",
+        "gpu": "RTX 3070",
+        "price": "59990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-gigabyte-pci-e-4-0-gv-n307tgaming-oc-8gd-nv-rtx3070ti-8192m-1535681/",
+        "name": "Видеокарта GIGABYTE NVIDIA GeForce RTX 3070TI, GV-N307TGAMING OC-8GD",
+        "gpu": "RTX 3070",
+        "price": "59890"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-pny-pci-e-t1000-nv-t1000-8192mb-128-gddr6-mdpx4-ret-low-pro-1818830/",
+        "name": "Видеокарта PNY NVIDIA T1000, T1000",
+        "gpu": "another",
+        "price": "58220"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-msi-pci-e-4-0-rx-6800-gaming-z-trio-16g-amd-rx6800-16384mb-1859708/",
+        "name": "Видеокарта MSI AMD Radeon RX 6800, RX 6800 GAMING Z TRIO 16G",
+        "gpu": "RX 6800",
+        "price": "57990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-palit-pci-e-4-0-pa-rtx3070ti-gamingpro-8g-nv-rtx3070ti-8192-1528277/",
+        "name": "Видеокарта Palit NVIDIA GeForce RTX 3070TI, PA-RTX3070TI GAMINGPRO 8G",
+        "gpu": "RTX 3070",
+        "price": "57890"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-gigabyte-pci-e-4-0-gv-n307tgaming-8gd-nv-rtx3070ti-8192mb-2-1845488/",
+        "name": "Видеокарта GIGABYTE NVIDIA GeForce RTX 3070TI, GV-N307TGAMING-8GD",
+        "gpu": "RTX 3070",
+        "price": "57490"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-pny-pci-e-t1000-nv-t1000-8192mb-128-gddr6-mdpx4-oem-low-pro-1819377/",
+        "name": "Видеокарта PNY NVIDIA T1000, T1000",
+        "gpu": "another",
+        "price": "57340"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-powercolor-amd-radeon-rx-6800-axrx-6800-16gbd6-3dh-oc-16gb-1451747/",
+        "name": "Видеокарта PowerColor AMD Radeon RX 6800, AXRX 6800 16GBD6-3DH/OC",
+        "gpu": "RX 6800",
+        "price": "56790"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-msi-pci-e-4-0-rtx-3070-ventus-3x-8g-oc-lhr-nv-rtx3070-8192m-1554296/",
+        "name": "Видеокарта MSI NVIDIA GeForce RTX 3070, RTX 3070 VENTUS 3X 8G OC LHR",
+        "gpu": "RTX 3070",
+        "price": "55990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-palit-pci-e-4-0-pa-rtx3070-gamerock-8g-v1-nv-rtx3070-8192mb-1535785/",
+        "name": "Видеокарта Palit NVIDIA GeForce RTX 3070, PA-RTX3070 GAMEROCK 8G V1 LHR",
+        "gpu": "RTX 3070",
+        "price": "54990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-powercolor-pci-e-4-0-axrx-6700xt-12gbd6-3dhe-oc-amd-rx6700x-1493185/",
+        "name": "Видеокарта PowerColor AMD Radeon RX 6700XT, AXRX 6700XT 12GBD6-3DHE/OC",
+        "gpu": "RX 6700",
+        "price": "52990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-asus-pci-e-4-0-dual-rx6750xt-o12g-amd-rx6750xt-12288mb-192-1811680/",
+        "name": "Видеокарта ASUS AMD Radeon RX 6750XT, DUAL-RX6750XT-O12G",
+        "gpu": "RX 6750",
+        "price": "51990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-palit-pci-e-4-0-pa-rtx3070-gamingpro-oc-8g-v1-nv-rtx3070-81-1535818/",
+        "name": "Видеокарта Palit NVIDIA GeForce RTX 3070, PA-RTX3070 GAMINGPRO OC 8G V1 LHR",
+        "gpu": "RTX 3070",
+        "price": "51990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-palit-nvidia-geforce-rtx-3070-pa-rtx3070-gamingpro-8g-8gb-g-1421448/",
+        "name": "Видеокарта Palit NVIDIA GeForce RTX 3070, PA-RTX3070 GAMINGPRO 8G",
+        "gpu": "RTX 3070",
+        "price": "51990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-gigabyte-pci-e-4-0-gv-n3070gaming-oc-8gd-2-0-lhr-nv-rtx3070-1546196/",
+        "name": "Видеокарта GIGABYTE NVIDIA GeForce RTX 3070, GV-N3070GAMING OC-8GD 2.0 LHR",
+        "gpu": "RTX 3070",
+        "price": "51890"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-powercolor-pci-e-4-0-axrx-6700xt-12gbd6-3dhl-amd-rx6700xt-1-1521238/",
+        "name": "Видеокарта PowerColor AMD Radeon RX 6700XT, AXRX 6700XT 12GBD6-3DHL",
+        "gpu": "RX 6700",
+        "price": "50990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-gigabyte-pci-e-4-0-gv-n3070eagle-8gd-2-0-lhr-nv-rtx3070-819-1543694/",
+        "name": "Видеокарта GIGABYTE NVIDIA GeForce RTX 3070, GV-N3070EAGLE-8GD 2.0 LHR",
+        "gpu": "RTX 3070",
+        "price": "49990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-gigabyte-pci-e-4-0-gv-n3070eagle-oc-8gd-2-0-lhr-nv-rtx3070-1558228/",
+        "name": "Видеокарта GIGABYTE NVIDIA GeForce RTX 3070, GV-N3070EAGLE OC-8GD 2.0 LHR",
+        "gpu": "RTX 3070",
+        "price": "49890"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-gigabyte-pci-e-4-0-gv-r675xtgaming-oc-12gd-amd-radeon-rx-67-1738839/",
+        "name": "Видеокарта GIGABYTE AMD Radeon RX 6750XT, GV-R675XTGAMING OC-12GD",
+        "gpu": "RX 6750",
+        "price": "48990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-palit-pci-e-4-0-pa-rtx3070-gamingpro-8g-v1-nv-rtx3070-8192m-1535821/",
+        "name": "Видеокарта Palit NVIDIA GeForce RTX 3070, PA-RTX3070 GAMINGPRO 8G V1 LHR",
+        "gpu": "RTX 3070",
+        "price": "48990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-powercolor-pci-e-4-0-axrx-6750xt-12gbd6-3dhe-oc-amd-rx6750x-1800263/",
+        "name": "Видеокарта PowerColor AMD Radeon RX 6750XT, AXRX 6750XT 12GBD6-3DHE/OC",
+        "gpu": "RX 6750",
+        "price": "47990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-msi-pci-e-4-0-rx-6750-xt-gaming-x-trio-12g-amd-rx6750xt-122-1744949/",
+        "name": "Видеокарта MSI AMD Radeon RX 6750XT, RX 6750 XT GAMING X TRIO 12G",
+        "gpu": "RX 6750",
+        "price": "46990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-gigabyte-pci-e-4-0-gv-r675xtaorus-e-12gd-amd-rx6750xt-12288-1743757/",
+        "name": "Видеокарта GIGABYTE AMD Radeon RX 6750XT, GV-R675XTAORUS E-12GD",
+        "gpu": "RX 6750",
+        "price": "45990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-msi-pci-e-4-0-rtx-3060-ti-gaming-z-trio-8g-lhr-nv-rtx3060ti-1562974/",
+        "name": "Видеокарта MSI NVIDIA GeForce RTX 3060Ti, RTX 3060 Ti GAMING Z TRIO 8G LHR",
+        "gpu": "RTX 3060Ti",
+        "price": "45990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-asus-pci-e-4-0-dual-rx6700xt-12g-amd-rx6700xt-12288mb-256-g-1495223/",
+        "name": "Видеокарта ASUS AMD Radeon RX 6700XT, DUAL-RX6700XT-12G",
+        "gpu": "RX 6700",
+        "price": "45990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-gigabyte-pci-e-4-0-gv-n306tvision-8gd-nv-rtx3060ti-8192mb-2-1874766/",
+        "name": "Видеокарта GIGABYTE NVIDIA GeForce RTX 3060Ti, GV-N306TVISION-8GD",
+        "gpu": "RTX 3060Ti",
+        "price": "44990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-asus-pci-e-4-0-dual-rx6700xt-o12g-amd-rx6700xt-12288mb-192-1646224/",
+        "name": "Видеокарта ASUS AMD Radeon RX 6700XT, DUAL-RX6700XT-O12G",
+        "gpu": "RX 6700",
+        "price": "44990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-msi-pci-e-4-0-rtx-3060-ti-ventus-3x-8g-oc-lhr-nv-rtx3060ti-1551757/",
+        "name": "Видеокарта MSI NVIDIA GeForce RTX 3060Ti, RTX 3060 Ti VENTUS 3X 8G OC LHR",
+        "gpu": "RTX 3060Ti",
+        "price": "44990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-gigabyte-pci-e-4-0-gv-n306tvision-oc-8gd-2-0-lhr-nv-rtx3060-1543697/",
+        "name": "Видеокарта GIGABYTE NVIDIA GeForce RTX 3060Ti, GV-N306TVISION OC-8GD 2.0 LHR",
+        "gpu": "RTX 3060Ti",
+        "price": "44990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-asus-pci-e-dual-rtx2070s-8g-evo-nv-rtx2070super-8192mb-256b-M00199057/",
+        "name": "Видеокарта ASUS NVIDIA GeForce RTX 2070SUPER, DUAL-RTX2070S-8G-EVO, 8ГБ, GDDR6, Ret(восстановленн",
+        "gpu": "another",
+        "price": "44635"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-gigabyte-pci-e-4-0-gv-n306txeagle-oc-8gd-nv-rtx3060ti-8192m-1901051/",
+        "name": "Видеокарта GIGABYTE NVIDIA GeForce RTX 3060Ti, GV-N306TXEAGLE OC-8GD",
+        "gpu": "RTX 3060Ti",
+        "price": "43990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-msi-pci-e-4-0-rtx-3060-ti-gaming-8g-lhr-nv-rtx3060ti-8192mb-1848909/",
+        "name": "Видеокарта MSI NVIDIA GeForce RTX 3060Ti, RTX 3060 Ti GAMING 8G LHR",
+        "gpu": "RTX 3060Ti",
+        "price": "43990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-msi-pci-e-4-0-rtx-3060-ti-ventus-3x-8gd6x-oc-nv-rtx3060ti-8-1887884/",
+        "name": "Видеокарта MSI NVIDIA GeForce RTX 3060Ti, RTX 3060 Ti VENTUS 3X 8GD6X OC",
+        "gpu": "RTX 3060Ti",
+        "price": "43890"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-msi-pci-e-4-0-rtx-3060-ti-twin-fan-8g-lhr-nv-rtx3060ti-8192-1848907/",
+        "name": "Видеокарта MSI NVIDIA GeForce RTX 3060Ti, RTX 3060 Ti TWIN FAN 8G LHR",
+        "gpu": "RTX 3060Ti",
+        "price": "43590"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-msi-pci-e-4-0-rtx-3060-ti-ventus-2x-8gd6x-oc-nv-rtx3060ti-8-1887883/",
+        "name": "Видеокарта MSI NVIDIA GeForce RTX 3060Ti, RTX 3060 Ti VENTUS 2X 8GD6X OC",
+        "gpu": "RTX 3060Ti",
+        "price": "42990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-asus-pci-e-4-0-dual-rtx3060ti-o8gd6x-white-nv-rtx3060ti-819-1887619/",
+        "name": "Видеокарта ASUS NVIDIA GeForce RTX 3060Ti, DUAL-RTX3060TI-O8GD6X-WHITE",
+        "gpu": "RTX 3060Ti",
+        "price": "42990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-asus-pci-e-4-0-dual-rtx3060ti-o8gd6x-nv-rtx3060ti-8192mb-25-1885913/",
+        "name": "Видеокарта ASUS NVIDIA GeForce RTX 3060Ti, DUAL-RTX3060TI-O8GD6X",
+        "gpu": "RTX 3060Ti",
+        "price": "42990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-msi-pci-e-4-0-rtx-3060-gaming-z-trio-12g-nv-rtx3060-12288mb-1848908/",
+        "name": "Видеокарта MSI NVIDIA GeForce RTX 3060, RTX 3060 GAMING Z TRIO 12G",
+        "gpu": "RTX 3060",
+        "price": "42990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-msi-pci-e-4-0-rtx-3060-ti-gaming-x-8g-lhr-nv-rtx3060ti-8192-1561343/",
+        "name": "Видеокарта MSI NVIDIA GeForce RTX 3060Ti, RTX 3060 Ti GAMING X 8G LHR",
+        "gpu": "RTX 3060Ti",
+        "price": "42990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-gigabyte-pci-e-4-0-gv-n306teagle-8gd-2-0-lhr-nv-rtx3060ti-8-1543683/",
+        "name": "Видеокарта GIGABYTE NVIDIA GeForce RTX 3060Ti, GV-N306TEAGLE-8GD 2.0 LHR",
+        "gpu": "RTX 3060Ti",
+        "price": "42590"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-gigabyte-pci-e-4-0-gv-n306txgaming-oc-8gd-nv-rtx3060ti-8192-1879602/",
+        "name": "Видеокарта GIGABYTE NVIDIA GeForce RTX 3060Ti, GV-N306TXGAMING OC-8GD",
+        "gpu": "RTX 3060Ti",
+        "price": "41990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-asus-pci-e-4-0-rog-strix-rx6650xt-o8g-gaming-amd-rx6650xt-8-1781225/",
+        "name": "Видеокарта ASUS AMD Radeon RX 6650XT, ROG-STRIX-RX6650XT-O8G-GAMING",
+        "gpu": "RX 6650",
+        "price": "41990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-msi-pci-e-4-0-rtx-3060-ti-ventus-2x-8g-ocv1-lhr-nv-rtx3060t-1546548/",
+        "name": "Видеокарта MSI NVIDIA GeForce RTX 3060Ti, RTX 3060 Ti VENTUS 2X 8G OCV1 LHR",
+        "gpu": "RTX 3060Ti",
+        "price": "41990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-powercolor-pci-e-4-0-axrx-6700xt-12gbd6-3dhl-amd-rx6700xt-1-1501382/",
+        "name": "Видеокарта PowerColor AMD Radeon RX 6700XT, AXRX 6700XT 12GBD6-3DH",
+        "gpu": "RX 6700",
+        "price": "41990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-asus-pci-e-4-0-dual-rtx3060ti-8g-mini-v2-nv-rtx3060ti-8192m-1601561/",
+        "name": "Видеокарта ASUS NVIDIA GeForce RTX 3060Ti, DUAL-RTX3060TI-8G-MINI-V2",
+        "gpu": "RTX 3060Ti",
+        "price": "40990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-gigabyte-pci-e-4-0-gv-n306teagle-oc-8gd-2-0-lhr-nv-rtx3060t-1543680/",
+        "name": "Видеокарта GIGABYTE NVIDIA GeForce RTX 3060Ti, GV-N306TEAGLE OC-8GD 2.0 LHR",
+        "gpu": "RTX 3060Ti",
+        "price": "40590"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-palit-pci-e-4-0-pa-rtx3060ti-dual-8g-nv-rtx3060ti-8192mb-25-1825340/",
+        "name": "Видеокарта Palit NVIDIA GeForce RTX 3060Ti, PA-RTX3060Ti DUAL 8G",
+        "gpu": "RTX 3060Ti",
+        "price": "39990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-gigabyte-pci-e-4-0-gv-n306twf2oc-8gd-nv-rtx3060ti-8192mb-25-1808082/",
+        "name": "Видеокарта GIGABYTE NVIDIA GeForce RTX 3060Ti, GV-N306TWF2OC-8GD",
+        "gpu": "RTX 3060Ti",
+        "price": "39990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-asus-pci-e-4-0-dual-rtx3060ti-o8g-mini-v2-nv-rtx3060ti-8192-1551105/",
+        "name": "Видеокарта ASUS NVIDIA GeForce RTX 3060Ti, DUAL-RTX3060TI-O8G-MINI-V2",
+        "gpu": "RTX 3060Ti",
+        "price": "39990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-palit-pci-e-4-0-pa-rtx3060ti-dual-8g-v1-lhr-nv-rtx3060ti-81-1542015/",
+        "name": "Видеокарта Palit NVIDIA GeForce RTX 3060Ti, PA-RTX3060Ti DUAL 8G V1 LHR",
+        "gpu": "RTX 3060Ti",
+        "price": "39990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-palit-pci-e-4-0-pa-rtx3060ti-dual-oc-8g-v1-lhr-nv-rtx3060ti-1542005/",
+        "name": "Видеокарта Palit NVIDIA GeForce RTX 3060Ti, PA-RTX3060Ti DUAL OC 8G V1 LHR",
+        "gpu": "RTX 3060Ti",
+        "price": "39990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-msi-nvidia-geforce-rtx-3060-rtx-3060-gaming-x-12g-12gb-gddr-1476984/",
+        "name": "Видеокарта MSI NVIDIA GeForce RTX 3060, RTX 3060 GAMING X 12G",
+        "gpu": "RTX 3060",
+        "price": "39790"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-msi-pci-e-4-0-rx-6650-xt-gaming-x-8g-amd-rx6650xt-8192mb-12-1859709/",
+        "name": "Видеокарта MSI AMD Radeon RX 6650XT, RX 6650 XT GAMING X 8G",
+        "gpu": "RX 6650",
+        "price": "38990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-msi-pci-e-4-0-rtx-3060-ti-aero-itx-8g-oc-lhr-nv-rtx3060ti-8-1783110/",
+        "name": "Видеокарта MSI NVIDIA GeForce RTX 3060Ti, RTX 3060 Ti AERO ITX 8G OC LHR",
+        "gpu": "RTX 3060Ti",
+        "price": "38990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-powercolor-pci-e-4-0-axrx-6650xt-8gbd6-3dhe-oc-amd-rx6650xt-1875136/",
+        "name": "Видеокарта PowerColor AMD Radeon RX 6650XT, AXRX 6650XT 8GBD6-3DHE/OC",
+        "gpu": "RX 6650",
+        "price": "37990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-gigabyte-pci-e-4-0-gv-n3060vision-oc-12gd-2-0-nv-rtx3060-12-1535676/",
+        "name": "Видеокарта GIGABYTE NVIDIA GeForce RTX 3060, GV-N3060VISION OC-12GD 2.0 LHR",
+        "gpu": "RTX 3060",
+        "price": "37990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-oc-rtx-3060-ventus-3x-12g-oc-1475894/",
+        "name": "Видеокарта MSI NVIDIA GeForce RTX 3060, RTX 3060 VENTUS 3X 12G OC",
+        "gpu": "RTX 3060",
+        "price": "37990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-asus-nvidia-geforce-rtx-2080super-rog-strix-rtx2080s-8g-gam-M00250469/",
+        "name": "Видеокарта ASUS NVIDIA GeForce RTX 2080SUPER, ROG-STRIX-RTX2080S-8G-GAMING, 8ГБ, GDDR6, Ret(восст",
+        "gpu": "another",
+        "price": "37506"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-asus-pci-e-4-0-dual-rx6650xt-o8g-amd-rx6650xt-8192mb-128-gd-1781223/",
+        "name": "Видеокарта ASUS AMD Radeon RX 6650XT, DUAL-RX6650XT-O8G",
+        "gpu": "RX 6650",
+        "price": "36990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-gigabyte-pci-e-gv-r665xtgaming-oc-8gd-amd-radeon-rx-6650xt-1738844/",
+        "name": "Видеокарта GIGABYTE AMD Radeon RX 6650XT, GV-R665XTGAMING OC-8GD",
+        "gpu": "RX 6650",
+        "price": "35990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-asus-pci-e-4-0-tuf-rtx3060-o12g-v2-gaming-lhr-nv-rtx3060-12-1548318/",
+        "name": "Видеокарта ASUS NVIDIA GeForce RTX 3060, TUF-RTX3060-O12G-V2-GAMING LHR",
+        "gpu": "RTX 3060",
+        "price": "35990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-msi-nvidia-geforce-rtx-3060-rtx-3060-ventus-2x-12g-oc-12gb-1475891/",
+        "name": "Видеокарта MSI NVIDIA GeForce RTX 3060, RTX 3060 VENTUS 2X 12G OC",
+        "gpu": "RTX 3060",
+        "price": "35990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-powercolor-pci-e-4-0-axrx-6700-10gbd6-3dh-oc-amd-radeon-rx-1800262/",
+        "name": "Видеокарта PowerColor AMD Radeon RX 6700, AXRX 6700 10GBD6-3DH/OC",
+        "gpu": "RX 6700",
+        "price": "35490"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-msi-pci-e-4-0-rtx-3060-ventus-2x-8g-oc-nv-rtx3060-8192mb-19-1873636/",
+        "name": "Видеокарта MSI NVIDIA GeForce RTX 3060, RTX 3060 VENTUS 2X 8G OC",
+        "gpu": "RTX 3060",
+        "price": "33990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-asus-pci-e-dual-rtx2060-12g-evo-nv-rtx2060-12288mb-192-gddr-1806660/",
+        "name": "Видеокарта ASUS NVIDIA GeForce RTX 2060, DUAL-RTX2060-12G-EVO",
+        "gpu": "RTX 2060",
+        "price": "33990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-powercolor-pci-e-4-0-axrx-6650xt-8gbd6-3dhlv3-oc-amd-rx6650-1800259/",
+        "name": "Видеокарта PowerColor AMD Radeon RX 6650XT, AXRX 6650XT 8GBD6-3DHLV3/OC",
+        "gpu": "RX 6650",
+        "price": "33990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-gigabyte-pci-e-gv-r665xteagle-8gd-amd-radeon-rx-6650xt-8192-1738847/",
+        "name": "Видеокарта GIGABYTE AMD Radeon RX 6650XT, GV-R665XTEAGLE-8GD",
+        "gpu": "RX 6650",
+        "price": "33990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-gigabyte-pci-e-4-0-gv-n3060eagle-12gd-2-0-nv-rtx3060-12288m-1623032/",
+        "name": "Видеокарта GIGABYTE NVIDIA GeForce RTX 3060, GV-N3060EAGLE-12GD 2.0",
+        "gpu": "RTX 3060",
+        "price": "33990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-palit-pci-e-pa-rtx2060super-dual-8g-no-led-nv-rtx2060super-1489448/",
+        "name": "Видеокарта Palit NVIDIA GeForce RTX 2060SUPER, PA-RTX2060SUPER DUAL 8G no LED",
+        "gpu": "RTX 2060SUPER",
+        "price": "33990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-asus-pci-e-dual-rtx2060-o12g-evo-nv-rtx2060-12288mb-192-gdd-1806659/",
+        "name": "Видеокарта ASUS NVIDIA GeForce RTX 2060, DUAL-RTX2060-O12G-EVO",
+        "gpu": "RTX 2060",
+        "price": "33890"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-gigabyte-pci-e-4-0-gv-n3060eagle-oc-12gd-v2-0-lhr-nv-rtx306-1531397/",
+        "name": "Видеокарта GIGABYTE NVIDIA GeForce RTX 3060, GV-N3060EAGLE OC-12GD 2.0 LHR",
+        "gpu": "RTX 3060",
+        "price": "33890"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-powercolor-pci-e-4-0-axrx-6650xt-8gbd6-3dhl-oc-amd-rx6650xt-1843310/",
+        "name": "Видеокарта PowerColor AMD Radeon RX 6650XT, AXRX 6650XT 8GBD6-3DHL/OC",
+        "gpu": "RX 6650",
+        "price": "32990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-gigabyte-pci-e-4-0-gv-n3060wf2oc-12gd-nv-rtx3060-12288mb-19-1808084/",
+        "name": "Видеокарта GIGABYTE NVIDIA GeForce RTX 3060, GV-N3060WF2OC-12GD",
+        "gpu": "RTX 3060",
+        "price": "32990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-powercolor-pci-e-4-0-axrx-6650xt-8gbd6-3dhlv2-oc-amd-rx6650-1800260/",
+        "name": "Видеокарта PowerColor AMD Radeon RX 6650XT, AXRX 6650XT 8GBD6-3DHLV2/OC",
+        "gpu": "RX 6650",
+        "price": "32990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-gigabyte-nvidia-geforce-rtx-2060super-gv-n206swf2oc-8gd-8gb-1159466/",
+        "name": "Видеокарта GIGABYTE NVIDIA GeForce RTX 2060SUPER, GV-N206SWF2OC-8GD",
+        "gpu": "RTX 2060SUPER",
+        "price": "32990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-asus-pci-e-4-0-ph-rtx3060-12g-v2-lhr-nv-rtx3060-12288mb-192-1548320/",
+        "name": "Видеокарта ASUS NVIDIA GeForce RTX 3060, PH-RTX3060-12G-V2 LHR",
+        "gpu": "RTX 3060",
+        "price": "31990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-msi-pci-e-rtx-2060-ventus-gp-oc-nv-rtx2060-6144mb-192-gddr6-1512170/",
+        "name": "Видеокарта MSI NVIDIA GeForce RTX 2060, RTX 2060 VENTUS GP OC",
+        "gpu": "RTX 2060",
+        "price": "31990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-asus-nvidia-geforce-rtx-2060-dual-rtx2060-o6g-evo-6gb-gddr6-1160365/",
+        "name": "Видеокарта ASUS NVIDIA GeForce RTX 2060, DUAL-RTX2060-O6G-EVO",
+        "gpu": "RTX 2060",
+        "price": "31990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-palit-pci-e-pa-rtx2060super-dual-8g-nv-rtx2060super-8192mb-1861391/",
+        "name": "Видеокарта Palit NVIDIA GeForce RTX 2060SUPER, PA-RTX2060SUPER DUAL 8G",
+        "gpu": "RTX 2060SUPER",
+        "price": "31490"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-asus-pci-e-4-0-dual-rtx3060-o8g-white-nv-rtx3060-8192mb-128-1897364/",
+        "name": "Видеокарта ASUS NVIDIA GeForce RTX 3060, DUAL-RTX3060-O8G-WHITE",
+        "gpu": "RTX 3060",
+        "price": "30990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-palit-nvidia-geforce-rtx-3060-rtx3060-dual-oc-12g-12gb-gddr-1469028/",
+        "name": "Видеокарта Palit NVIDIA GeForce RTX 3060, RTX3060 DUAL OC 12G",
+        "gpu": "RTX 3060",
+        "price": "30990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-gigabyte-pci-e-4-0-gv-n306taorus-e-8gd-2-0-lhr-nv-rtx3060ti-M00257432/",
+        "name": "Видеокарта Gigabyte PCI-E 4.0 GV-N306TAORUS E-8GD 2.0 LHR NV RTX3060Ti 8192Mb 256 GDDR6 1785/1 (Б/У)",
+        "gpu": "another",
+        "price": "30540"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-msi-pci-e-4-0-rtx-3050-gaming-x-8g-nv-rtx3050-8192mb-64-gdd-1680443/",
+        "name": "Видеокарта MSI NVIDIA GeForce RTX 3050, RTX 3050 GAMING X 8G",
+        "gpu": "RTX 3050",
+        "price": "29990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-palit-nvidia-geforce-rtx-3060-pa-rtx3060-dual-12g-12gb-gddr-1469005/",
+        "name": "Видеокарта Palit NVIDIA GeForce RTX 3060, PA-RTX3060 DUAL 12G",
+        "gpu": "RTX 3060",
+        "price": "29990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-msi-pci-e-4-0-rtx-3050-ventus-2x-8g-oc-nv-rtx3050-8192mb-64-1680442/",
+        "name": "Видеокарта MSI NVIDIA GeForce RTX 3050, RTX 3050 VENTUS 2X 8G OC",
+        "gpu": "RTX 3050",
+        "price": "28990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-msi-pci-e-4-0-rtx-3050-aero-itx-8g-oc-nv-rtx3050-8192mb-128-1789319/",
+        "name": "Видеокарта MSI NVIDIA GeForce RTX 3050, RTX 3050 AERO ITX 8G OC",
+        "gpu": "RTX 3050",
+        "price": "28590"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-palit-pci-e-pa-rtx3050-dual-nv-rtx3050-8192mb-128-gddr6-155-1658278/",
+        "name": "Видеокарта Palit NVIDIA GeForce RTX 3050, PA-RTX3050 DUAL",
+        "gpu": "RTX 3050",
+        "price": "27990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-gigabyte-pci-e-gv-r66eagle-8gd-amd-rx6600-8192mb-128-gddr6-1610423/",
+        "name": "Видеокарта GIGABYTE AMD Radeon RX 6600, GV-R66EAGLE-8GD",
+        "gpu": "RX 6600",
+        "price": "27990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-gigabyte-pci-e-gv-n2060d6-6gd-nv-rtx2060-6144mb-192b-gddr6-1382637/",
+        "name": "Видеокарта GIGABYTE NVIDIA GeForce RTX 2060, GV-N2060D6-6GD",
+        "gpu": "RTX 2060",
+        "price": "27990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-asus-nvidia-geforce-rtx-2060-dual-rtx2060-6g-evo-6gb-gddr6-1160355/",
+        "name": "Видеокарта ASUS NVIDIA GeForce RTX 2060, DUAL-RTX2060-6G-EVO",
+        "gpu": "RTX 2060",
+        "price": "27990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-palit-pci-e-4-0-pa-rtx3060-stormx-8gb-nv-rtx3060-8192mb-128-1859909/",
+        "name": "Видеокарта Palit NVIDIA GeForce RTX 3060, PA-RTX3060 STORMX 8GB",
+        "gpu": "RTX 3060",
+        "price": "26990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-gigabyte-nvidia-geforce-gtx-1660super-gv-n166soc-6gd-6gb-gd-1188412/",
+        "name": "Видеокарта GIGABYTE NVIDIA GeForce GTX 1660SUPER, GV-N166SOC-6GD",
+        "gpu": "GTX 1660SUPER",
+        "price": "26490"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-asus-pci-e-4-0-ph-rtx3050-8g-nv-rtx3050-8192mb-128-gddr6-17-1681324/",
+        "name": "Видеокарта ASUS NVIDIA GeForce RTX 3050, PH-RTX3050-8G",
+        "gpu": "RTX 3050",
+        "price": "25990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-asus-pci-e-4-0-dual-rtx3050-o8g-nv-rtx3050-8192mb-128-gddr6-1681315/",
+        "name": "Видеокарта ASUS NVIDIA GeForce RTX 3050, DUAL-RTX3050-O8G",
+        "gpu": "RTX 3050",
+        "price": "25990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-gigabyte-pci-e-4-0-gv-n3050eagle-oc-8gd-nv-rtx3050-8192mb-1-1671917/",
+        "name": "Видеокарта GIGABYTE NVIDIA GeForce RTX 3050, GV-N3050EAGLE OC-8GD",
+        "gpu": "RTX 3050",
+        "price": "25990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-palit-pci-e-pa-rtx3050-dual-oc-nv-rtx3050-8192mb-128-gddr6-1659821/",
+        "name": "Видеокарта Palit NVIDIA GeForce RTX 3050, PA-RTX3050 DUAL OC",
+        "gpu": "RTX 3050",
+        "price": "25990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-palit-pci-e-4-0-pa-rtx3050-dual-nv-rtx3050-8192mb-128-gddr6-1879436/",
+        "name": "Видеокарта Palit NVIDIA GeForce RTX 3050, PA-RTX3050 DUAL",
+        "gpu": "RTX 3050",
+        "price": "24990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-msi-nvidia-geforce-gtx-1660super-gtx-1660-super-aero-itx-oc-1190180/",
+        "name": "Видеокарта MSI NVIDIA GeForce GTX 1660SUPER, GTX 1660 SUPER AERO ITX OC",
+        "gpu": "GTX 1660SUPER",
+        "price": "24990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-palit-nvidia-geforce-gtx-1660ti-pa-gtx1660ti-stormx-6g-6gb-1118911/",
+        "name": "Видеокарта Palit NVIDIA GeForce GTX 1660TI, PA-GTX1660Ti STORMX 6G",
+        "gpu": "GTX 1660",
+        "price": "24990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-palit-pci-e-4-0-pa-rtx3050-stormx-nv-rtx3050-8192mb-128-gdd-1879417/",
+        "name": "Видеокарта Palit NVIDIA GeForce RTX 3050, PA-RTX3050 STORMX",
+        "gpu": "RTX 3050",
+        "price": "22990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-palit-pci-e-pa-gtx1660super-gp-oc-6g-nv-gtx1660super-6144mb-1496878/",
+        "name": "Видеокарта Palit NVIDIA GeForce GTX 1660SUPER, PA-GTX1660SUPER GP OC 6G",
+        "gpu": "GTX 1660SUPER",
+        "price": "21990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-palit-pci-e-pa-gtx1660super-gp-6g-nv-gtx1660super-6144mb-19-1496891/",
+        "name": "Видеокарта Palit NVIDIA GeForce GTX 1660SUPER, PA-GTX1660SUPER GP 6G",
+        "gpu": "GTX 1660SUPER",
+        "price": "19990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-msi-nvidia-geforce-gtx-1660super-gtx-1660-super-ventus-xs-o-M00256612/",
+        "name": "Видеокарта MSI NVIDIA GeForce GTX 1660SUPER, GTX 1660 SUPER VENTUS XS OCV1, 6ГБ, GDDR6, OC, Ret(",
+        "gpu": "another",
+        "price": "18200"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-gigabyte-amd-radeon-rx-5600xt-gv-r56xtgaming-oc-6gd-6gb-gdd-M00249030/",
+        "name": "Видеокарта GIGABYTE AMD Radeon RX 5600XT, GV-R56XTGAMING OC-6GD, 6ГБ, GDDR6, OC, Ret(восстановле",
+        "gpu": "another",
+        "price": "18099"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-msi-nvidia-geforce-gtx-1660-gtx-1660-ventus-xs-6g-oc-6gb-gd-M00256932/",
+        "name": "Видеокарта MSI NVIDIA GeForce GTX 1660, GTX 1660 VENTUS XS 6G OC, 6ГБ, GDDR5, OC, Ret(восстановл",
+        "gpu": "another",
+        "price": "16240"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-gigabyte-pci-e-4-0-gv-ia380wf2oc-6gd-intel-arc-a380-windfor-1874760/",
+        "name": "Видеокарта GIGABYTE INTEL ARC A380, GV-IA380WF2OC-6GD",
+        "gpu": "another",
+        "price": "13990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-gigabyte-pci-e-4-0-gv-ia380gaming-oc-6gd-intel-arc-a380-gam-1874758/",
+        "name": "Видеокарта GIGABYTE INTEL ARC A380, GV-IA380GAMING OC-6GD",
+        "gpu": "another",
+        "price": "13990"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-gigabyte-pci-e-4-0-gv-n4090aorusx-w-24gd-nv-rtx4090-24576mb-1888966/",
+        "name": "Видеокарта GIGABYTE NVIDIA GeForce RTX 4090, GV-N4090AORUSX W-24GD",
+        "gpu": "RTX 4090",
+        "price": "Товара нет в наличии"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-palit-pci-e-4-0-pa-rtx3080-gamerock-10g-v1-nv-rtx3080-10240-1535779/",
+        "name": "Видеокарта Palit NVIDIA GeForce RTX 3080, PA-RTX3080 GAMEROCK 10G V1 LHR",
+        "gpu": "RTX 3080",
+        "price": "Товара нет в наличии"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-asus-pci-e-4-0-dual-rtx3060ti-o8g-v2-nv-rtx3060ti-8192mb-25-1555368/",
+        "name": "Видеокарта ASUS NVIDIA GeForce RTX 3060Ti, DUAL-RTX3060TI-O8G-V2",
+        "gpu": "RTX 3060Ti",
+        "price": "Товара нет в наличии"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-msi-pci-e-4-0-rtx-3060-ti-ventus-2x-8g-v1-lhr-ru-nv-rtx3060-1625373/",
+        "name": "Видеокарта MSI NVIDIA GeForce RTX 3060Ti, RTX 3060 Ti VENTUS 2X 8G V1 LHR RU",
+        "gpu": "RTX 3060Ti",
+        "price": "Товара нет в наличии"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-gigabyte-pci-e-4-0-gv-n3060gaming-oc-12gd-v2-0-lhr-nv-rtx30-1531394/",
+        "name": "Видеокарта GIGABYTE NVIDIA GeForce RTX 3060, GV-N3060GAMING OC-12GD 2.0 LHR",
+        "gpu": "RTX 3060",
+        "price": "Товара нет в наличии"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-asus-pci-e-4-0-dual-rtx3060-o12g-v2-lhr-nv-rtx3060-12288mb-1543629/",
+        "name": "Видеокарта ASUS NVIDIA GeForce RTX 3060, DUAL-RTX3060-O12G-V2 LHR",
+        "gpu": "RTX 3060",
+        "price": "Товара нет в наличии"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-gigabyte-pci-e-4-0-gv-n3060gaming-oc-8gd-nv-rtx3060-8192mb-1879623/",
+        "name": "Видеокарта GIGABYTE NVIDIA GeForce RTX 3060, GV-N3060GAMING OC-8GD",
+        "gpu": "RTX 3060",
+        "price": "Товара нет в наличии"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-palit-pci-e-pa-gtx1660ti-dual-6g-nv-gtx1660ti-6144mb-192-gd-1537454/",
+        "name": "Видеокарта Palit NVIDIA GeForce GTX 1660TI, PA-GTX1660Ti DUAL 6G",
+        "gpu": "GTX 1660",
+        "price": "Товара нет в наличии"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-gigabyte-pci-e-4-0-gv-n3050gaming-oc-8gd-nv-rtx3050-8192mb-1670348/",
+        "name": "Видеокарта GIGABYTE NVIDIA GeForce RTX 3050, GV-N3050GAMING OC-8GD",
+        "gpu": "RTX 3050",
+        "price": "Товара нет в наличии"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-msi-pci-e-4-0-rx-6600-mech-2x-8g-amd-rx6600xt-8192mb-128-gd-1606922/",
+        "name": "Видеокарта MSI AMD Radeon RX 6600, RX 6600 MECH 2X 8G",
+        "gpu": "RX 6600",
+        "price": "Товара нет в наличии"
+    },
+    {
+        "url": "https://www.citilink.ru/product/videokarta-msi-nvidia-geforce-gtx-1660super-gtx-1660-super-gaming-x-6g-1188210/",
+        "name": "Видеокарта MSI NVIDIA GeForce GTX 1660SUPER, GTX 1660 SUPER GAMING X",
+        "gpu": "GTX 1660SUPER",
+        "price": "Товара нет в наличии"
+    }
+]
