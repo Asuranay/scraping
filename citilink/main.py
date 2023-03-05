@@ -30,29 +30,26 @@ def city(url:str, city:str) -> None:
     driver.get(url=url)
     WebDriverWait(driver, 10).until(
         EC.element_to_be_clickable((By.XPATH, "//button[@data-meta-name='CityChangeButton']"))).click()
+
+
     WebDriverWait(driver, 10).until(
         EC.element_to_be_clickable((By.PARTIAL_LINK_TEXT, city))).click()
 
-    page_scroll()
-    card()
+    while True:
+        try:
+            card()
+            page_scroll()
+        except:
+            break
 
 def page_scroll():
     '''Скролим всю страницу до конца'''
-    while True:
-        try:
-            # WebDriverWait(driver, 10).until(
-            #     EC.element_to_be_clickable((By.CLASS_NAME, "e4uhfkv0 app-catalog-1ryoxjb e4mggex0"))).click()
-            element = driver.find_elements(By.CLASS_NAME, "e4uhfkv0 app-catalog-1ryoxjb e4mggex0")
-            element = element[0]
-            element.click()
-        except:
-            break
-        time.sleep(2)
-        print('Листаем')
-        # except:
-        #     break
-
-
+    time.sleep(2)
+    # driver.find_element(By.XPATH, "//div[@class='app-catalog-165t4zf ey27zj40']/div/div[2]/button").click()
+    link = driver.find_element(By.PARTIAL_LINK_TEXT, "Следующая")
+    link.click()
+    print(link.text)
+    time.sleep(2)
 def card():
     '''Заполнение карточек товаров'''
     WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CLASS_NAME, 'app-catalog-9gnskf')))
