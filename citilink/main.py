@@ -35,20 +35,17 @@ def city(url:str, city:str) -> None:
     WebDriverWait(driver, 10).until(
         EC.element_to_be_clickable((By.PARTIAL_LINK_TEXT, city))).click()
 
-    while True:
-        try:
-            card()
-            page_scroll()
-        except:
-            break
-
+    card()
+    page_scroll()
 def page_scroll():
     '''Скролим всю страницу до конца'''
     time.sleep(2)
+    driver.execute_script('window.scrollTo(0,10000);')
+    time.sleep(2)
     # driver.find_element(By.XPATH, "//div[@class='app-catalog-165t4zf ey27zj40']/div/div[2]/button").click()
-    link = driver.find_element(By.PARTIAL_LINK_TEXT, "Следующая")
-    link.click()
-    print(link.text)
+    link = driver.find_elements(By.XPATH, "//div[@class='app-catalog-peotpw e1mnvjgw0']")
+    for el in link:
+        print(el.text)
     time.sleep(2)
 def card():
     '''Заполнение карточек товаров'''
