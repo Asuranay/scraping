@@ -10,7 +10,7 @@ from selenium.webdriver.common.keys import Keys
 
 
 # отфильтровано: цена по убыванию, память 6гг и более
-url = 'https://www.citilink.ru/catalog/videokarty/?p=5&sorting=price_desc&pf=discount.any%2Crating.any%2C304_296d1gb%' \
+url = 'https://www.citilink.ru/catalog/videokarty/?sorting=price_desc&pf=discount.any%2Crating.any%2C304_296d1gb%' \
       '2C304_298d1gb%2C304_2910d1gb%2C304_2912d1gb%2C304_2916d1gb%2C304_2920d1gb%2C304_2924d1gb&f=discount.any%' \
       '2Crating.any%2C304_296d1gb%2C304_298d1gb%2C304_2910d1gb%2C304_2912d1gb%2C304_2916d1gb%2C304_2920d1gb%' \
       '2C304_2924d1gb%2C304_2948d1gb&pprice_min=3890&pprice_max=555770&price_min=3890&price_max=555770'
